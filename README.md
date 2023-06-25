@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 About Me
 I'm currently working on Azure Cognitive Services Research
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andrei_tibi21) 
 
 # 💻 Tech Stack:
