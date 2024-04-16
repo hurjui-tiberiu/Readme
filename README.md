@@ -1,5 +1,5 @@
 # 💫 About Me
-I'm currently working on Azure Cognitive Services Research
+.NET and Microsoft Azure Associate Developer
 
 
 ## 🌐 Socials
